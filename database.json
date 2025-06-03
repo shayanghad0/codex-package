@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": {No},
+      "username": "username",
+      "password": "Hashed Password",
+      "role": "Admin , dev",
+      "createdAt": "Create At time"
+    }
+  ],
+  "repositories": []
+}
